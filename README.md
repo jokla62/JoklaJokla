@@ -6,6 +6,9 @@
 <br><br>
 Interests/most favourite topic(s):<br>
 ... CIVIC TEC<br>
+... Automatic Backups for Disaster Recovery, Security by Design, Data Encryption Protection etc.
+... User centred Design - users are most often particularly effective in identifying needs and formulating proposed solutions.
+(A clear understanding of user and task requirements. Incorporating user feedback to define requirements and design. Early and active involvement of the user to evaluate the design of the product. Integrating user-centred design with other development activities.)
 ... global and local impacts, holistic approach, society, politics, economy, science, literature, art, philosophy, bauhaus, welthaus / world house, 
 green and health sustainability, outdoor experiences, meditation, tai chi, aikido, chess, table football.<br>
 
