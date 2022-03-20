@@ -8,6 +8,7 @@ Interests/most favourite topic(s):<br>
 ... CIVIC TEC<br>
 ... EDUCATION: ONLINE LEARNING AND DEVELOPMENT PLATFORMS<br>
 ... E-DEMOCRACY PROJECTS: FREE POLLS & VOTING & ELECTION & PETITIONS & PARTICIPATION DEMOCRACY PLATFORMS<br>
+... P2P SOFTWARE DEVELOPMENT
 ... Automatic Backups for Disaster Recovery, Security by Design, Data Encryption Protection etc.<br>
 ... User centred Design - users are most often particularly effective in identifying needs and formulating proposed solutions.<br>
 (A clear understanding of user and task requirements. Incorporating user feedback to define requirements and design. Early and active involvement of the user to evaluate the design of the product. Integrating user-centred design with other development activities.)<br>
