@@ -7,7 +7,7 @@ Interests/most favourite topic(s): CIVIC TEC
 global and local impacts, holistic approach, society, politics, economy, science, literature, art, philosophy, bauhaus, welthaus / world house, 
 green and health sustainability, outdoor experiences, meditation, tai chi, aikido, chess, table football.
 
-Experience/top skills
+Experience/top skills:<br>
 Core competence: sales/marketing optimization.
 Boost return on sales/marketing investments.
 Experience with 16 out of top 100 global brands.
