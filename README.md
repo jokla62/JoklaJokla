@@ -33,4 +33,7 @@ https://www.global-vision.world/<br>
 https://www.joy.ventures/<br>
 https://www.marketing.joy.ventures/<br>
 https://www.growth.joy.ventures/<br>
+https://drive.google.com/file/d/1SuvaXLRLIcoTOZZPxxDzIZt8OYQdrPXz/view?usp=sharing<br>
+https://drive.google.com/file/d/1TlWJoc8CqfFFn_EkjWFyGHtenZ-x-YA3/view?usp=sharing<br>
+https://global-vision.world/tutorial/Classroom%20Tutorial%20Final.mp4<br>
 <br><br>
