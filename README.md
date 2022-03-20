@@ -4,7 +4,8 @@
 learning from each other<br>
 development and cooperation/collaboration
 
-Interests/most favourite topic(s): CIVIC TEC<br>
+Interests/most favourite topic(s):<br>
+CIVIC TEC<br>
 global and local impacts, holistic approach, society, politics, economy, science, literature, art, philosophy, bauhaus, welthaus / world house, 
 green and health sustainability, outdoor experiences, meditation, tai chi, aikido, chess, table football.<br>
 <br><br>
