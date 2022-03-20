@@ -26,9 +26,7 @@ joachim.klatt@yahoo.de<br>
 joachim.klatt@global-vision.world<br>
 joachim.klatt@joy.ventures<br>
 <br><br>
-WEB<br>
-https://www.linkedin.com/in/joachimklatt/<br>
-https://www.xing.com/profile/Joachim_Klatt/cv<br>
+WEB/APP DEVELOPMENT EXPERIENCE:<br>
 https://www.global-vision.world/<br>
 https://www.joy.ventures/<br>
 https://www.marketing.joy.ventures/<br>
@@ -36,4 +34,11 @@ https://www.growth.joy.ventures/<br>
 https://drive.google.com/file/d/1SuvaXLRLIcoTOZZPxxDzIZt8OYQdrPXz/view?usp=sharing<br>
 https://drive.google.com/file/d/1TlWJoc8CqfFFn_EkjWFyGHtenZ-x-YA3/view?usp=sharing<br>
 https://global-vision.world/tutorial/Classroom%20Tutorial%20Final.mp4<br>
+<br><br>
+PROFILES:<br>
+https://www.linkedin.com/in/joachimklatt/<br>
+https://www.xing.com/profile/Joachim_Klatt/cv<br>
+<br><br>
+CV/RESUME:<br>
+https://drive.google.com/drive/folders/1iEpkw2TwKT1bmpCMPd87MDmp75G3A2QU<br>
 <br><br>
