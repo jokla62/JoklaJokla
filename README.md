@@ -9,6 +9,7 @@ Interests/most favourite topic(s):<br>
 ... EDUCATION: ONLINE LEARNING AND DEVELOPMENT PLATFORMS<br>
 ... E-DEMOCRACY PROJECTS: FREE POLLS & VOTING & ELECTION & PETITIONS & PARTICIPATION DEMOCRACY PLATFORMS<br>
 ... COMMUNITY PLATFORMS AND E-PARTICIPATION<br>
+... SHARING AND BUILDING TOGETHER PLATFORMS<br>
 ... P2P SOFTWARE DEVELOPMENT<br>
 ... Automatic Backups for Disaster Recovery, Security by Design, Data Encryption Protection etc.<br>
 ... User centred Design - users are most often particularly effective in identifying needs and formulating proposed solutions.<br>
