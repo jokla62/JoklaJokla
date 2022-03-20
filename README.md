@@ -41,7 +41,10 @@ https://global-vision.world/tutorial/Classroom%20Tutorial%20Final.mp4<br>
 PROFILES:<br>
 https://www.linkedin.com/in/joachimklatt/<br>
 https://www.xing.com/profile/Joachim_Klatt/cv<br>
+https://stackoverflow.com/users/18505114/joklajokla<br>
+https://github.com/JoklaJokla/JoklaJokla/<br>
 <br><br>
 CV/RESUME:<br>
 https://drive.google.com/drive/folders/1iEpkw2TwKT1bmpCMPd87MDmp75G3A2QU<br>
 <br><br>
+
