@@ -1,8 +1,8 @@
 👋 Hi, I’m @JoklaJokla<br>
 
 👀 I’m interested in ...<br>
-...learning from each other<br>
-...development and cooperation/collaboration
+... learning from each other<br>
+... development and cooperation/collaboration
 
 Interests/most favourite topic(s):<br>
 ... CIVIC TEC<br>
