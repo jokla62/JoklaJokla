@@ -8,12 +8,7 @@ Interests/most favourite topic(s):<br>
 ... CIVIC TEC<br>
 ... global and local impacts, holistic approach, society, politics, economy, science, literature, art, philosophy, bauhaus, welthaus / world house, 
 green and health sustainability, outdoor experiences, meditation, tai chi, aikido, chess, table football.<br>
-<br><br>
-Experience/top skills:<br>
-... Core competence: sales/marketing optimization.<br>
-... Boost return on sales/marketing investments.<br>
-... Experience with 16 out of top 100 global brands.<br>
-... Sales/marketing experience: over 70 corporates.<br>
+
 <br><br>
 Wants:<br>
 ... Interesting people & projects.<br>
