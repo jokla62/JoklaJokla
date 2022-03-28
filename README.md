@@ -49,7 +49,8 @@ https://www.xing.com/profile/Joachim_Klatt/cv<br>
 https://stackoverflow.com/users/18505114/joklajokla<br>
 https://github.com/JoklaJokla/JoklaJokla/<br>
 <br><br>
-CV/RESUME:<br>
+CV/RESUME/WORKEXAMPLES:<br>
 https://drive.google.com/drive/folders/1iEpkw2TwKT1bmpCMPd87MDmp75G3A2QU<br>
+https://drive.google.com/drive/folders/1P_id7lIuPQkDazrhyrMFYt4z-oMo_rVY?usp=sharing
 <br><br>
 
