@@ -49,9 +49,9 @@ https://www.growth.joy.ventures/<br>
 https://drive.google.com/file/d/1SuvaXLRLIcoTOZZPxxDzIZt8OYQdrPXz/view?usp=sharing<br>
 https://drive.google.com/file/d/1TlWJoc8CqfFFn_EkjWFyGHtenZ-x-YA3/view?usp=sharing<br>
 https://global-vision.world/tutorial/Classroom%20Tutorial%20Final.mp4<br>
-one-free.world / onefree.world (public in winter 2022)<br>
-one-green.world (public in winter 2022)<br>
-people-planet-purpose.one (public in winter 2022)<br>
+https://www.one-free.world/ and  https://www.onefree.world/ (publication in autumn/winter 2022)<br>
+https://www.one-green.world/ (publication in winter 2022)<br>
+https://www.people-planet-purpose.one/ (publication in winter 2022)<br>
 <br><br>
 PROFILES:<br>
 https://www.linkedin.com/in/joachimklatt/<br>
