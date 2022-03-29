@@ -6,15 +6,17 @@
 <br><br>
 Interests/most favourite topic(s):<br>
 ... ONE<br>
+... ONE WORLD<br>
 ... ONE FREE WORLD<br>
 ... ONE GREEN WORLD<br>
-... FREE CIVIC TEC<br>
-... FREE SPEECH COMMUNICATION AND EDUCATION: ONLINE LEARNING AND DEVELOPMENT PLATFORMS<br>
-... FREE E-DEMOCRACY PROJECTS: FREE POLLS & VOTING & ELECTION & PETITIONS<br>
-... FREE PARTICIPATION DEMOCRACY PLATFORMS<br>
-... FREE COMMUNITY PLATFORMS AND E-PARTICIPATION<br>
-... SHARING AND BUILDING TOGETHER PLATFORMS<br>
-... P2P SOFTWARE DEVELOPMENT<br>
+... ONE SOCIAL WORLD<br>
+... OPEN SOURCE CIVIC TEC<br>
+... OPEN SOURCE FREE SPEECH COMMUNICATION AND EDUCATION: ONLINE LEARNING AND DEVELOPMENT PLATFORMS<br>
+... OPEN SOURCE FREE E-DEMOCRACY PROJECTS: FREE POLLS & VOTING & ELECTION & PETITIONS<br>
+... OPEN SOURCE FREE PARTICIPATION DEMOCRACY PLATFORMS<br>
+... OPEN SOURCE FREE COMMUNITY PLATFORMS AND E-PARTICIPATION<br>
+... OPEN SOURCE SHARING AND BUILDING TOGETHER PLATFORMS<br>
+... OPEN SOURCE P2P SOFTWARE DEVELOPMENT<br>
 ... Automatic Backups for Disaster Recovery, Security by Design, Data Encryption Protection etc.<br>
 ... User centred Design - users are most often particularly effective in identifying needs and formulating proposed solutions.<br>
 (A clear understanding of user and task requirements. Incorporating user feedback to define requirements and design. Early and active involvement of the user to evaluate the design of the product. Integrating user-centred design with other development activities.)<br>
@@ -30,7 +32,8 @@ Wants:<br>
 ... to set up web/app functionalities in the most simple way.<br>
 <br><br>
 💞️ I’m looking to collaborate on ...<br>
-... web and app development<br>
+... web and app development which change the world for better<br>
+... IDEAS CHANGE OUR WORLD<br>
 <br><br>
 📫 How to reach me ...<br>
 EMAIL<br>
