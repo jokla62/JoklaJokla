@@ -41,7 +41,7 @@ joachim.klatt@yahoo.de<br>
 joachim.klatt@global-vision.world<br>
 joachim.klatt@joy.ventures<br>
 <br><br>
-WEB/APP DEVELOPMENT EXPERIENCE:<br>
+WEB / APP DEVELOPMENT EXPERIENCE:<br>
 https://www.global-vision.world/<br>
 https://www.joy.ventures/<br>
 https://www.marketing.joy.ventures/<br>
@@ -49,6 +49,9 @@ https://www.growth.joy.ventures/<br>
 https://drive.google.com/file/d/1SuvaXLRLIcoTOZZPxxDzIZt8OYQdrPXz/view?usp=sharing<br>
 https://drive.google.com/file/d/1TlWJoc8CqfFFn_EkjWFyGHtenZ-x-YA3/view?usp=sharing<br>
 https://global-vision.world/tutorial/Classroom%20Tutorial%20Final.mp4<br>
+one-free.world / onefree.world (public in winter 2022)<br>
+one-green.world (public in winter 2022)<br>
+people-planet-purpose.one (public in winter 2022)<br>
 <br><br>
 PROFILES:<br>
 https://www.linkedin.com/in/joachimklatt/<br>
@@ -56,7 +59,7 @@ https://www.xing.com/profile/Joachim_Klatt/cv<br>
 https://stackoverflow.com/users/18505114/joklajokla<br>
 https://github.com/JoklaJokla/JoklaJokla/<br>
 <br><br>
-CV/RESUME/WORKEXAMPLES:<br>
+CV / RESUME / WORKEXAMPLES:<br>
 https://drive.google.com/drive/folders/1iEpkw2TwKT1bmpCMPd87MDmp75G3A2QU<br>
 https://drive.google.com/drive/folders/1P_id7lIuPQkDazrhyrMFYt4z-oMo_rVY?usp=sharing
 <br><br>
