@@ -29,7 +29,7 @@ Wants:<br>
 <br><br>
 
 🌱 I’m currently learning ...<br>
-... to set up web/app functionalities in the most simple way.<br>
+... to set up web/app functionalities in the most simple way to connect the world.<br>
 <br><br>
 💞️ I’m looking to collaborate on ...<br>
 ... web and app development which change the world for better<br>
