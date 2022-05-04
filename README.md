@@ -28,6 +28,26 @@ Wants:<br>
 ... Interesting people & projects.<br>
 <br><br>
 
+What kind of software developer we are looking for:<br>
+- GitHub / Stackoverflow / Berlin based freelancer developer<br>
+- Java minded programmer [BBB]<br>
+- Deep PHP knowledge<br>
+- Deep ECMAScript/Javascript knowledge<br>
+- AJAX programming knowledge<br>
+- HTML 5 knowledge (HTML 4 knowledge = nice to have)<br>
+- Deep cross browser responsive CSS design knowledge<br>
+- MySQL database design, development and maintenance knowledge<br>
+- Deep Apache Server knowledge<br>
+- Ngnix Server knowledge<br>
+- Domain name and SSL setup knowledge<br>
+- UBUNTU system administration knowledge<br>
+Plus to have:<br>
+- Opensource software development interest / experience<br>
+- P2P software development interest / experience<br>
+- Serverless web development interest / experience<br>
+- Serverless database design development interest / experience<br>
+- Blockchain software development interest / experience<br>
+<br><br>
 🌱 I’m currently learning ...<br>
 ... to set up web/app functionalities in the most simple way to connect the world.<br>
 <br><br>
